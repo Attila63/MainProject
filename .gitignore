@@ -1,0 +1,18 @@
+Pods/Target Support Files/Pods-MainProject/Pods-MainProject.debug.xcconfig
+Pods/Target Support Files/Pods-MainProject/Pods-MainProject-resources.sh
+Pods/Target Support Files/Pods-MainProject/Pods-MainProject-frameworks.sh
+Pods/Target Support Files/Pods-MainProject/Pods-MainProject-dummy.m
+Pods/Target Support Files/Pods-MainProject/Pods-MainProject-acknowledgements.plist
+Pods/Target Support Files/Pods-MainProject/Pods-MainProject-acknowledgements.markdown
+Pods/Target Support Files/Module1/Module1.xcconfig
+Pods/Target Support Files/Module1/Module1-prefix.pch
+Pods/Target Support Files/Module1/Module1-dummy.m
+Pods/Pods.xcodeproj/xcuserdata/igor.gun.xcuserdatad/xcschemes/Pods-MainProject.xcscheme
+Pods/Pods.xcodeproj/xcshareddata/xcschemes/Module1.xcscheme
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Local Podspecs/Module1.podspec.json
+Pods/Headers/Public/Module1/HalloWorld.h
+Pods/Headers/Private/Module1/HalloWorld.h
+Pods/Manifest.lock
+MainProject.xcworkspace/xcuserdata/igor.gun.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+MainProject.xcworkspace/xcshareddata/MainProject.xcscmblueprint

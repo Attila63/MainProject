@@ -1,0 +1,3 @@
+[submodule "Submodules/Module1"]
+	path = Submodules/Module1
+	url = https://github.com/Attila63/Module1.git

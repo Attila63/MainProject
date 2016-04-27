@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 
+#import <HalloWorld.h>
+
 @interface AppDelegate ()
 
 @end
@@ -15,8 +17,13 @@
 @implementation AppDelegate
 
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{    
+    HalloWorld *hw = [[HalloWorld alloc] init];
+    [hw foo];
+    [hw foo2];
+    [hw foo3];
+    
     return YES;
 }
 
