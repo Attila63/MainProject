@@ -23,6 +23,7 @@
     [hw foo];
     [hw foo2];
     [hw foo3];
+    [hw foo4];
     
     return YES;
 }

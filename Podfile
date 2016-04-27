@@ -6,5 +6,6 @@ platform :ios, '8.0'
 target 'MainProject' do
 
 pod 'Module1', :path => './Submodules/Module1'
+
 end
 
